@@ -28,6 +28,9 @@ The Shared Data Hub makes data journalism available to news organisations across
 
 The story was also covered by BBC Breakfast, BBC Radio 4 Today Programme, BBC WM, BBC Radio Shropshire, BBC Hereford & Worcester and BBC Radio Scotland, BBC Homepage, BBC Scotland TV, BBC Radio Scotland, BBC Scotland, BBC Victoria Derbyshire, BBC Radio Bristol, BBC Bristol, BBC Radio 1, BBC Radio London, BBC News Channel, BBC Somerset, BBC Wiltshire and BBC Cambridgeshire.
 
+Non partner coverage:
+
+* The Telegraph: [University students asking for mental health help up 50 per cent in five years, FOI shows, as minister says they must be 'supported not mollycoddled'](https://www.telegraph.co.uk/news/2018/10/29/university-students-asking-mental-health-help-50-per-cent-five/)
 
 ## Get the data
 
