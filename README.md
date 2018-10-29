@@ -4,8 +4,7 @@
 
 The number of students seeking mental health support while studying at university has increased by more than 50% in five years, BBC Shared Data Unit analysis suggests.
 
-The BBC asked universities across the UK via FOIs for the numbers of students seeking some form of support.
-
+The BBC’s Shared Data Unit sent a Freedom of Information (FOI) request to 172 UK universities. Nine were exempt as they were private institutions not subject to FOI and 162 universities responded out of the remaining 163.
 
 
 ![](https://github.com/BBC-Data-Unit/Uni-mental-health/blob/master/Uni_Mental%20health%20expenditure.png)
