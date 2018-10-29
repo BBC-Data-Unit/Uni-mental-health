@@ -27,7 +27,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * The Press (York): [Number of York St John students seeking mental health help up 75%](https://www.yorkpress.co.uk/news/17015643.number-of-york-st-john-students-seeking-mental-health-help-up-75/)
 
 
-The story was also covered by BBC Breakfast, BBC Radio 4 Today Programme, BBC WM, BBC Radio Shropshire, BBC Hereford & Worcester and BBC Radio Scotland, BBC Homepage, BBC Scotland TV, BBC Radio Scotland, BBC Scotland, BBC Victoria Derbyshire, BBC Radio Bristol, BBC Bristol, BBC Radio 1, BBC Radio London, BBC News Channel, BBC Somerset and BBC Cambridgeshire.
+The story was also covered by BBC Breakfast, BBC Radio 4 Today Programme, BBC WM, BBC Radio Shropshire, BBC Hereford & Worcester and BBC Radio Scotland, BBC Homepage, BBC Scotland TV, BBC Radio Scotland, BBC Scotland, BBC Victoria Derbyshire, BBC Radio Bristol, BBC Bristol, BBC Radio 1, BBC Radio London, BBC News Channel, BBC Somerset, BBC Wiltshire and BBC Cambridgeshire.
 
 
 ## Get the data
