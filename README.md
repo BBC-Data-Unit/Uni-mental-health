@@ -25,6 +25,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Sunderland Echo: [Sunderland students turning to support services rises by 378%](https://www.sunderlandecho.com/news/sunderland-students-turning-to-support-services-rises-by-378-1-9417466)
 * The Press (York): [Number of York St John students seeking mental health help up 75%](https://www.yorkpress.co.uk/news/17015643.number-of-york-st-john-students-seeking-mental-health-help-up-75/)
 * Kent Online: [Why are more students in Kent seeking mental health support?](https://www.kentonline.co.uk/kmtv/video/why-are-more-students-in-kent-seeking-mental-health-support-22742/?fbclid=IwAR2mfa8w68JyX4leSrpPof8JWaoMwOs2CIKE8FeEwlUIb9EvoHKmK2rHDr8)
+* Pirate FM: [Mental health budget at Falmouth Uni nearly quadruples](https://www.piratefm.co.uk/news/latest-news/2723751/mental-health-budget-at-falmouth-uni-nearly-quadruples/)
 
 
 The story was also covered by BBC Breakfast, BBC Radio 4 Today Programme, BBC WM, BBC Radio Shropshire, BBC Hereford & Worcester and BBC Radio Scotland, BBC Homepage, BBC Scotland TV, BBC Radio Scotland, BBC Scotland, BBC Victoria Derbyshire, BBC Radio Bristol, BBC Bristol, BBC Radio 1, BBC Radio London, BBC News Channel, BBC Somerset, BBC Wiltshire and BBC Cambridgeshire.
