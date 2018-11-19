@@ -34,10 +34,11 @@ The story was also covered by BBC Breakfast, BBC Radio 4 Today Programme, BBC WM
 
 Non partner coverage:
 
-* The Telegraph: [University students asking for mental health help up 50 per cent in five years, FOI shows, as minister says they must be 'supported not mollycoddled'](https://www.telegraph.co.uk/news/2018/10/29/university-students-asking-mental-health-help-50-per-cent-five/)
-* Wonkfest - Education blog: [Wonkfest preview: mental health, morale and wellbeing](https://wonkhe.com/blogs/wonkfest-preview-mental-health-morale-and-wellbeing/) 
-* Not in vain for lee: [Huge rise in students in Scotland seeking mental health support](http://www.notinvainforlee.co.uk/?cat=105)
-* The Herald: [Students seeking counselling doubles](https://www.pressreader.com/uk/the-herald/20181030/281964608717027)
+* The Telegraph: [University students asking for mental health help up 50 per cent in five years, FOI shows, as minister says they must be 'supported not mollycoddled'](https://www.telegraph.co.uk/news/2018/10/29/university-students-asking-mental-health-help-50-per-cent-five/) *29 October 2018*
+* Wonkfest - Education blog: [Wonkfest preview: mental health, morale and wellbeing](https://wonkhe.com/blogs/wonkfest-preview-mental-health-morale-and-wellbeing/) *1 November 2018*
+* Not in vain for lee: [Huge rise in students in Scotland seeking mental health support](http://www.notinvainforlee.co.uk/?p=1636) *30 october 2018*
+* The Herald: [Students seeking counselling doubles](https://www.pressreader.com/uk/the-herald/20181030/281964608717027) *30 October 2018*
+* Forge Today: [Opinion: Demand on Mental Health Support Doubles in Five Years](http://forgetoday.com/2018/11/18/opinion-demand-on-mental-health-support-doubles-in-five-years/) *18 November 2018*
 
 ## Get the data
 
