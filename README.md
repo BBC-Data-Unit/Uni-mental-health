@@ -28,6 +28,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Pirate FM: [Mental health budget at Falmouth Uni nearly quadruples](https://www.piratefm.co.uk/news/latest-news/2723751/mental-health-budget-at-falmouth-uni-nearly-quadruples/) *30 October 2018*
 * The Evening Express (Aberdeen): [Figures reveal rise in Aberdeen students seeking mental health help](https://www.eveningexpress.co.uk/fp/news/local/figures-reveal-rise-in-aberdeen-students-seeking-mental-health-help/#r3z-addoor) *30 October 2019*
 * Cornish Stuff: [Half of all Falmouth Uni students seeking help for mental health](https://cornishstuff.com/2018/11/05/half-of-all-falmouth-uni-students-seeking-help-for-mental-health/) *5 November 2018*
+* Ipswitch Star: [University of Suffolk setting standards for higher education mental health support](https://www.ipswichstar.co.uk/news/ipswich-teachers-get-suicide-prevention-training-1-5792796) *26 November 2018*
 
 
 The story was also covered by BBC Breakfast, BBC Radio 4 Today Programme, BBC WM, BBC Radio Shropshire, BBC Hereford & Worcester and BBC Radio Scotland, BBC Homepage, BBC Scotland TV, BBC Scotland, BBC Victoria Derbyshire, BBC Radio Bristol, BBC Bristol, BBC Radio 1, BBC Radio London, BBC News Channel, BBC Scotland - Timeline, BBC Somerset, BBC Wiltshire and BBC Cambridgeshire. 
