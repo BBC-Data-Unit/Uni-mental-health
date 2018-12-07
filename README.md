@@ -48,7 +48,7 @@ Non partner coverage:
 ## Visualisation
 
 * Bar chart: More students seeking mental health support
-* Data pic: University mental healthn services expenditure
+* Data pic: University mental health services expenditure
 
 ## Background and briefing
 
